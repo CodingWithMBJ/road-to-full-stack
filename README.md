@@ -7,7 +7,6 @@ So your study cycle will be:
     - First: **JavaScript for backend (Node.js/Express)**, but before that, learn **core JavaScript deeper** on backend days.
     - Alternate with **Java backend (Java → Spring Boot)**.
 
-This way, you’re always practicing frontend, while also alternating backend between **JS (Node)** and **Java (Spring)**.
 
 Here’s how we can structure it into a **360-day roadmap**:
 
